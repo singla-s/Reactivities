@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\API\\API.csproj": {}
+    "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\API\\API.csproj": {
+    "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\sisingla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\API\\obj\\",
+        "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\sinni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sisingla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sinni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Application\\Application.csproj"
+              "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -76,17 +76,17 @@
         }
       }
     },
-    "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\sisingla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\sinni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sisingla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sinni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,11 +100,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -138,17 +138,17 @@
         }
       }
     },
-    "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\sisingla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\sinni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sisingla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sinni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,17 +193,17 @@
         }
       }
     },
-    "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\sisingla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\sinni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sisingla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sinni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -217,8 +217,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\sisingla\\Workspace\\study\\.Net & React\\Project\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sinni\\WorkSpace\\.Net\\.netReact\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
